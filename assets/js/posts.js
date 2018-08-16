@@ -37,13 +37,13 @@ $(document).ready(function () {
   })
 
   function createPost(text, key) {
-    $(".posts-list").append(`
-      <li>
+  $(".posts-list").append(`
+    <li class="eachPost">
       <span data-text-id="${key}" >${text}</span>
-      <button data-edit-id="${key}" >Editar</button>
-      <button data-delete-id="${key}" >Excluir</button>
-      </li>
-      `);
+      <button class="btnEdit" data-edit-id="${key}" >Editar</button>
+      <button class="btnDel" data-delete-id="${key}" >Excluir</button>
+    </li>
+  `);
 
     $(`button[data-delete-id=${key}]`).click(function () {
       $(this).parent().remove();
