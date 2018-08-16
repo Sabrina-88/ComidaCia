@@ -1,0 +1,90 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#backgound {
+	background-image: url(../images/fundo2.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 100vh;
+	width: 100vw
+}
+h2 {
+	color: #F5A40B;
+	text-align: center;
+}
+form input {
+	width: 100%;
+}
+.btnGo, .btnRegister {
+	background-color: #F5A40B;
+	color: #fff;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+}
+input {
+	background-color: whitesmoke;
+	border: 1px solid #D5D5D5;
+	border-radius: 5px;
+}
+nav {
+	background-color: #F5A40B;
+	font-size: 14px;
+}
+i {
+	color: #fff;
+	font-size: 22px;
+}
+
+.form-share{
+	background:#FAD8B1;
+	border-radius: 10px;
+}
+.form-share  textarea {
+    border: 1px solid #F5A40B;/*#C89768*/
+	 resize: none
+}
+
+.sabrina{
+	background-color:#F5F5F5;
+	}
+	.feed{
+		background-color:#fff;
+		border-radius: 10px;}
+	li{
+		list-style-type:none;}
+	
+	.eachPost:hover{
+		background-color:#FCE9D4;}
+	.eachPost{
+		display:flex;
+		flex-direction:column;
+		border-radius:10px;
+		padding: 5px 10px;
+		}
+		 .post{
+			 font-size:22px;}
+	/*.controls{
+		display:flex;
+		flex-direction:row;
+		justify-content: flex-end;}*/
+		
+		.btnEdit{
+			background-color:#929191;
+			color:#fff;
+			padding:2px 5px;
+			border: 1px solid #AFAEAE;
+			margin: 5px 0 0;
+			border-radius:8px;}
+		
+		.btnDel{
+			background-color:#a01c1f;
+			color:#fff;
+			padding: 2px 5px;
+			border: 1px solid #BC1E21;
+			margin: 5px 0 0;
+			border-radius:8px;
+			}
