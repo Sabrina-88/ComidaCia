@@ -36,14 +36,14 @@ $(document).ready(function () {
     createPost(text, newPostInDB.key);
   })
 
- function createPost(text, key) {
-  $(".posts-list").append(`
-    <li class="eachPost">
+  function createPost(text, key) {
+    $(".posts-list").append(`
+      <li>
       <span data-text-id="${key}" >${text}</span>
-      <button class="btnEdit" data-edit-id="${key}" >Editar</button>
-      <button class="btnDel" data-delete-id="${key}" >Excluir</button>
-    </li>
-  `);
+      <button data-edit-id="${key}" >Editar</button>
+      <button data-delete-id="${key}" >Excluir</button>
+      </li>
+      `);
 
     $(`button[data-delete-id=${key}]`).click(function () {
       $(this).parent().remove();
@@ -74,7 +74,7 @@ $(document).ready(function () {
       $(".users-list").append(`
           <li>
           <span>${name}</span>
-          <button class="btnFollow" data-user-id="${key}">Seguir</button>
+          <button data-user-id="${key}">Seguir</button>
           </li>
           `);
       $(`button[data-user-id=${key}]`).click(function () {

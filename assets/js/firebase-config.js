@@ -1,4 +1,3 @@
-// Initialize Firebase
 var config = {
   apiKey: "AIzaSyB3JInsZI3ufMaXy5I_wgV97NCEsnRuebg",
   authDomain: "data-sprint-tres.firebaseapp.com",
@@ -9,3 +8,4 @@ var config = {
 };
 
 firebase.initializeApp(config);
+

@@ -1,4 +1,4 @@
-**Laboratória - Produto final sprint 3.**
+﻿**Laboratória - Produto final sprint 3.**
 **Turma 0** - Piloto.
 **Trabalho em dupla:**
  - Sabrina Andrade
