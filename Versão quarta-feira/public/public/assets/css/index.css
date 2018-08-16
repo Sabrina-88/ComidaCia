@@ -33,7 +33,10 @@ input {
 nav {
 	background-color: #F5A40B;
 	font-size: 14px;
+	color:#FFFFFF;
 }
+
+ 
 i {
 	color: #fff;
 	font-size: 22px;
@@ -88,3 +91,10 @@ i {
 			margin: 5px 0 0;
 			border-radius:8px;
 			}
+			.btnFollow{
+			    background-color: #fff;
+    padding: 3px 17px;
+    border-radius: 8px;
+    border: 1px solid orange;
+    font-weight: bold;
+    color: cornflowerblue;}
