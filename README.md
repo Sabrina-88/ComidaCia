@@ -1,7 +1,7 @@
 # Comida & Cia
 
 ## Motivation
-Laboratoria course Sprint 3 - create social network to share culinary recipes between friends that contains:
+Laboratoria's Project course Sprint 3 - create social network to share culinary recipes between friends that contains:
 * User profiles.
 * A newsfeed where you can view updates for all your contacts.
 * A place to be able to write posts.
