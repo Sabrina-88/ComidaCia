@@ -1,4 +1,4 @@
-![rs](https://user-images.githubusercontent.com/27375075/47627382-74c6a280-db0e-11e8-93a2-37b17f7a08dd.PNG)
+![rs](https://user-images.githubusercontent.com/27375075/47627413-ad667c00-db0e-11e8-81b7-6746c3f105ad.PNG)
 ![rs1](https://user-images.githubusercontent.com/27375075/47627381-74c6a280-db0e-11e8-9dac-220cc531c327.PNG)
 
 # Comida & Cia
