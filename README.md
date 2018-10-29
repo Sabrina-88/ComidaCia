@@ -1,5 +1,5 @@
-![rs](https://user-images.githubusercontent.com/27375075/47627413-ad667c00-db0e-11e8-81b7-6746c3f105ad.PNG)
-![rs1](https://user-images.githubusercontent.com/27375075/47627381-74c6a280-db0e-11e8-9dac-220cc531c327.PNG)
+:![rs](https://user-images.githubusercontent.com/27375075/47627413-ad667c00-db0e-11e8-81b7-6746c3f105ad.PNG):
+:![rs1](https://user-images.githubusercontent.com/27375075/47627381-74c6a280-db0e-11e8-9dac-220cc531c327.PNG):
 
 # Comida & Cia
 
